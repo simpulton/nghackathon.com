@@ -835,7 +835,7 @@ Partners
 	text-align: center;
 	/*-webkit-box-shadow: -1px -1px 0px 0px #ebeef0;*/
 	/*-moz-box-shadow: -1px -1px 0px 0px #ebeef0;*/
-	box-shadow: -1px -1px 0px 0px #ebeef0;
+	/*box-shadow: -1px -1px 0px 0px #ebeef0;*/
 }
 
 .partner:hover {
