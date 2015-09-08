@@ -2,7 +2,7 @@
     "use strict";
 
     var venueAddress = "1260 S Spectrum Blvd, Chandler, AZ 85286", // Venue Address
-        eventInfo = ["Angular Hackathon", "September 10th 2015"]; // Event Info
+        eventInfo = ["Angular Hackathon", "September 10th 2015", "7:00 PM to 11:00 PM"]; // Event Info
 
     var fn = {
 
